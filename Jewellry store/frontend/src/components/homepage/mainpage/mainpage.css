@@ -1,0 +1,152 @@
+.Mainpage_slider{
+    height: 300px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    align-content: center;
+    background-color: black;
+    
+  }
+  .slider-image{
+    width:250px;
+    height: 250px;
+    display: block;
+    object-fit: cover;
+    padding: 15px ;
+    box-shadow: 0 0 15px maroon;
+    margin: 30px 0;
+
+
+  }
+.background{
+  position: relative;
+  border-width: 10px;
+  border-style: solid;
+  border-color: maroon ;
+  
+}
+.text-on-image{
+  position: absolute;
+  bottom: 80%;
+  left: 5%;
+  color: white;
+}
+.backgroundimage img{
+ 
+  height: 620px;
+  width: auto;
+ 
+}
+
+.box1{
+  position: absolute;
+  right: 2%;
+  bottom: 70%;
+  height: 300px;
+  width: 300px;
+  background-color:#5A2828;
+  opacity: 78%;
+}
+.box2{
+  position: absolute;
+  right: 5%;
+  bottom: 65%;
+  height: 300px;
+  width: 300px;
+  background-color:#1E2226;
+  opacity: 56%;
+}
+.box3{
+  position: absolute;
+  right: 25%;
+  top: 62%;
+  height: 260px;
+  width: 260px;
+  background-color:#5A2828;
+  opacity: 78%;
+}
+.box4{
+  position: absolute;
+  right: 20%;
+  top: 67%;
+  height: 260px;
+  width: 260px;
+  background-color:rgb(185, 182, 182);
+  opacity: 78%;
+}
+.box5{
+  position: absolute;
+  right: 15%;
+  top: 72%;
+  height: 260px;
+  width: 260px;
+  background-color:black;
+  opacity: 78%;
+}
+
+.text-on-box{
+  position: absolute;
+  right: 10%;
+  bottom: 75%;
+  color: white;
+ 
+}
+
+.heading h1{
+margin-top: 30px;
+text-align: center;
+border-top: 2px solid #ddd;
+}
+
+.contact h2{
+  margin-left: 30px;
+ 
+}
+
+.details img{
+  margin-left: 50px;
+  width: 30px;
+  height: 30px;
+
+}
+.details h3{
+  margin-left: 60px;
+ 
+
+}
+.media h3{
+ text-align: center;
+
+}
+.media img{
+  width: 30px;
+  height: 30px;
+}
+
+.facebook{
+  margin-left: 450px;
+}
+.twitter{
+  margin-left: 100px;
+}
+.plane{
+  margin-left: 100px;
+ 
+}
+
+div .media{
+  background-color: white;
+  color: black;
+}
+
+div .since{
+  background-color:black;
+  color:white;
+}
+
+.since h2{
+  text-align: center;
+}
+.since h3{
+  text-align: center;
+}
